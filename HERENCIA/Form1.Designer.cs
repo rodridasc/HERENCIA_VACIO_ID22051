@@ -54,6 +54,7 @@ namespace HERENCIA
             this.sumar.TabIndex = 0;
             this.sumar.Text = "Sumar";
             this.sumar.UseVisualStyleBackColor = false;
+            this.sumar.Click += new System.EventHandler(this.sumar_Click);
             // 
             // restar
             // 
@@ -67,6 +68,7 @@ namespace HERENCIA
             this.restar.TabIndex = 1;
             this.restar.Text = "restar";
             this.restar.UseVisualStyleBackColor = false;
+            this.restar.Click += new System.EventHandler(this.restar_Click);
             // 
             // multiplicar
             // 
@@ -80,6 +82,7 @@ namespace HERENCIA
             this.multiplicar.TabIndex = 2;
             this.multiplicar.Text = "multiplicar";
             this.multiplicar.UseVisualStyleBackColor = false;
+            this.multiplicar.Click += new System.EventHandler(this.multiplicar_Click);
             // 
             // dividir
             // 
@@ -106,6 +109,7 @@ namespace HERENCIA
             this.limpiar.TabIndex = 4;
             this.limpiar.Text = "Limpiar";
             this.limpiar.UseVisualStyleBackColor = false;
+            this.limpiar.Click += new System.EventHandler(this.limpiar_Click);
             // 
             // label1
             // 
@@ -169,7 +173,7 @@ namespace HERENCIA
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.ClientSize = new System.Drawing.Size(509, 339);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.textBox2);

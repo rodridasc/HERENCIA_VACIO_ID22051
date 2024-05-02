@@ -1,0 +1,10 @@
+C:\Users\LICENCIATURAS\Downloads\rodridasc\HERENCIA_VACIO_ID22051\HERENCIA\bin\Debug\HERENCIA.exe.config
+C:\Users\LICENCIATURAS\Downloads\rodridasc\HERENCIA_VACIO_ID22051\HERENCIA\bin\Debug\HERENCIA.exe
+C:\Users\LICENCIATURAS\Downloads\rodridasc\HERENCIA_VACIO_ID22051\HERENCIA\bin\Debug\HERENCIA.pdb
+C:\Users\LICENCIATURAS\Downloads\rodridasc\HERENCIA_VACIO_ID22051\HERENCIA\obj\Debug\HERENCIA.csproj.AssemblyReference.cache
+C:\Users\LICENCIATURAS\Downloads\rodridasc\HERENCIA_VACIO_ID22051\HERENCIA\obj\Debug\HERENCIA.Form1.resources
+C:\Users\LICENCIATURAS\Downloads\rodridasc\HERENCIA_VACIO_ID22051\HERENCIA\obj\Debug\HERENCIA.Properties.Resources.resources
+C:\Users\LICENCIATURAS\Downloads\rodridasc\HERENCIA_VACIO_ID22051\HERENCIA\obj\Debug\HERENCIA.csproj.GenerateResource.cache
+C:\Users\LICENCIATURAS\Downloads\rodridasc\HERENCIA_VACIO_ID22051\HERENCIA\obj\Debug\HERENCIA.csproj.CoreCompileInputs.cache
+C:\Users\LICENCIATURAS\Downloads\rodridasc\HERENCIA_VACIO_ID22051\HERENCIA\obj\Debug\HERENCIA.exe
+C:\Users\LICENCIATURAS\Downloads\rodridasc\HERENCIA_VACIO_ID22051\HERENCIA\obj\Debug\HERENCIA.pdb
